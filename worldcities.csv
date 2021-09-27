@@ -1,5 +1,5 @@
 client_City,city_ascii,latitude,longitude,client_CountryOrRegion,iso2,iso3
-,,35,-35,Unknown,,
+,,35,-35,,,
 Tokyo,Tokyo,35.6897,139.6922,Japan,JP,JPN
 Jakarta,Jakarta,-6.2146,106.8451,Indonesia,ID,IDN
 Delhi,Delhi,28.66,77.23,India,IN,IND
