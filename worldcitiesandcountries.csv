@@ -5,7 +5,7 @@ Delhi,28.66,77.23,India,IN,IND
 Mumbai,18.9667,72.8333,India,IN,IND
 Manila,14.6,120.9833,Philippines,PH,PHL
 Shanghai,31.1667,121.4667,China,CN,CHN
-Sao Paulo,-23.5504,-46.6339,Brazil,BR,BRA
+São Paulo,-23.5504,-46.6339,Brazil,BR,BRA
 Seoul,37.56,126.99,"Korea, South",KR,KOR
 Mexico City,19.4333,-99.1333,Mexico,MX,MEX
 Guangzhou,23.1288,113.259,China,CN,CHN
@@ -130,7 +130,7 @@ Suihua,46.6384,126.9808,China,CN,CHN
 Washington,38.9047,-77.0163,United States,US,USA
 Qiqihar,47.3398,123.9512,China,CN,CHN
 Jinhua,29.1046,119.6494,China,CN,CHN
-Saint Petersburg,59.95,30.3167,Russia,RU,RUS
+St Petersburg,59.95,30.3167,Russia,RU,RUS
 Shantou,23.3735,116.6941,China,CN,CHN
 Sydney,-33.865,151.2094,Australia,AU,AUS
 Weinan,34.4996,109.4684,China,CN,CHN
@@ -576,7 +576,7 @@ Dhanbad,23.7928,86.435,India,IN,IND
 Yichun,47.7235,128.8893,China,CN,CHN
 Laiwu,36.1833,117.6667,China,CN,CHN
 Jingling,30.6667,113.1667,China,CN,CHN
-Kazan,55.7908,49.1144,Russia,RU,RUS
+Kazan’,55.7908,49.1144,Russia,RU,RUS
 Dayan,26.8808,100.2208,China,CN,CHN
 Suwon,37.2858,127.01,"Korea, South",KR,KOR
 Jiangyin,31.9087,120.2653,China,CN,CHN
@@ -745,6 +745,7 @@ Pretoria,-25.7464,28.1881,South Africa,ZA,ZAF
 Winnipeg,49.8844,-97.1464,Canada,CA,CAN
 Quebec City,46.8139,-71.2081,Canada,CA,CAN
 Oslo,59.9111,10.7528,Norway,NO,NOR
+Orkanger,63.305,9.8497,Norway,NO,NOR
 Athens,37.9842,23.7281,Greece,GR,GRC
 Bujumbura,-3.3825,29.3611,Burundi,BI,BDI
 Helsinki,60.1756,24.9342,Finland,FI,FIN
@@ -1091,7 +1092,7 @@ Changsha,22.3762,112.6877,China,CN,CHN
 Enugu,6.4403,7.4942,Nigeria,NG,NGA
 George Town,5.4145,100.3292,Malaysia,MY,MYS
 Jaboatao,-8.1803,-35.0014,Brazil,BR,BRA
-Santo Andre,-23.6572,-46.5333,Brazil,BR,BRA
+Santo André,-23.6572,-46.5333,Brazil,BR,BRA
 Xichang,27.8983,102.2706,China,CN,CHN
 Soledad,10.92,-74.77,Colombia,CO,COL
 Chengxiang,31.4515,121.1043,China,CN,CHN
@@ -1121,7 +1122,7 @@ Gaizhou,40.4019,122.3499,China,CN,CHN
 Malegaon,20.55,74.55,India,IN,IND
 Karbala',32.6167,44.0333,Iraq,IQ,IRQ
 Leling,37.7333,117.2167,China,CN,CHN
-Sao Jose dos Campos,-23.1789,-45.8869,Brazil,BR,BRA
+São José dos Campos,-23.1789,-45.8869,Brazil,BR,BRA
 Jianshe,34.2189,113.7693,China,CN,CHN
 Acapulco de Juarez,16.8636,-99.8825,Mexico,MX,MEX
 Sheffield,53.3833,-1.4667,United Kingdom,GB,GBR
@@ -1150,7 +1151,7 @@ Cape Coral,26.6446,-81.9956,United States,US,USA
 Ch'ongjin,41.8,129.7831,"Korea, North",KP,PRK
 Puyang Chengguanzhen,35.7004,114.98,China,CN,CHN
 Qionghu,28.8417,112.3595,China,CN,CHN
-Ribeirao Preto,-21.1783,-47.8067,Brazil,BR,BRA
+Ribeirão Preto,-21.1783,-47.8067,Brazil,BR,BRA
 Dasmarinas,14.3294,120.9367,Philippines,PH,PHL
 Wenchang,31.054,116.9507,China,CN,CHN
 Shulan,44.4167,126.95,China,CN,CHN
@@ -1174,7 +1175,7 @@ Contagem,-19.9319,-44.0539,Brazil,BR,BRA
 Tiruppur,11.1075,77.3398,India,IN,IND
 Ch'onan,36.8064,127.1522,"Korea, South",KR,KOR
 Zaragoza,41.6483,-0.883,Spain,ES,ESP
-Dusseldorf,51.2311,6.7724,Germany,DE,DEU
+Düsseldorf,51.2311,6.7724,Germany,DE,DEU
 Izhevsk,56.85,53.2167,Russia,RU,RUS
 Guixi,28.2861,117.2083,China,CN,CHN
 Sorocaba,-23.5019,-47.4578,Brazil,BR,BRA
@@ -2147,7 +2148,7 @@ Hospet,15.2667,76.4,India,IN,IND
 Ostrava,49.8356,18.2925,Czechia,CZ,CZE
 Tacna,-18.0556,-70.2483,Peru,PE,PER
 Korhogo,9.4578,-5.6294,CÃ´te Dâ€™Ivoire,CI,CIV
-Constanta,44.1733,28.6383,Romania,RO,ROU
+Constan?a,44.1733,28.6383,Romania,RO,ROU
 Haifa,32.8,34.9833,Israel,IL,ISR
 Coacalco,19.6333,-99.0931,Mexico,MX,MEX
 Crato,-7.2342,-39.4094,Brazil,BR,BRA
@@ -2338,7 +2339,7 @@ San Mateo,14.6969,121.1219,Philippines,PH,PHL
 Ap Da Loi,11.9304,108.42,Vietnam,VN,VNM
 Viamao,-30.0808,-51.0228,Brazil,BR,BRA
 Peoria,40.752,-89.6153,United States,US,USA
-Gravatai,-29.9433,-50.9939,Brazil,BR,BRA
+Gravataí,-29.9433,-50.9939,Brazil,BR,BRA
 Kediri,-7.8166,112.0119,Indonesia,ID,IDN
 Damaturu,11.75,11.9667,Nigeria,NG,NGA
 Tokushima,34.0667,134.55,Japan,JP,JPN
@@ -2446,7 +2447,7 @@ Gonzalez Catan,-34.7708,-58.6464,Argentina,AR,ARG
 Sete Lagoas,-19.4658,-44.2469,Brazil,BR,BRA
 Tarapoto,-6.4833,-76.3667,Peru,PE,PER
 Zhangping,25.2938,117.4148,China,CN,CHN
-San Juan del Rio,20.3833,-99.9833,Mexico,MX,MEX
+San Juan del Río,20.3833,-99.9833,Mexico,MX,MEX
 Sao Carlos,-22.0178,-47.8908,Brazil,BR,BRA
 Fremont,37.5265,-121.9852,United States,US,USA
 Halle,51.4828,11.9697,Germany,DE,DEU
@@ -2818,7 +2819,7 @@ Nema,16.6171,-7.25,Mauritania,MR,MRT
 Olympia,47.0417,-122.8959,United States,US,USA
 Gurgaon,28.45,77.02,India,IN,IND
 Guacara,10.2261,-67.877,Venezuela,VE,VEN
-Liege,50.6397,5.5706,Belgium,BE,BEL
+Liège,50.6397,5.5706,Belgium,BE,BEL
 Oulu,65.0142,25.4719,Finland,FI,FIN
 Frisco,33.1555,-96.8215,United States,US,USA
 Isidro Casanova,-34.7,-58.5833,Argentina,AR,ARG
@@ -3092,7 +3093,7 @@ Vellore,12.9204,79.15,India,IN,IND
 Dam Dam,22.62,88.42,India,IN,IND
 Bejaia,36.7511,5.0642,Algeria,DZ,DZA
 Rancho Cucamonga,34.1248,-117.5666,United States,US,USA
-Norilsk,69.3333,88.2167,Russia,RU,RUS
+Noril'sk,69.3333,88.2167,Russia,RU,RUS
 Baranavichy,53.1167,25.9833,Belarus,BY,BLR
 Nossa Senhora do Socorro,-10.855,-37.1258,Brazil,BR,BRA
 Hemet,33.7341,-116.9969,United States,US,USA
@@ -3236,7 +3237,7 @@ Tanjungbalai,2.9667,99.8,Indonesia,ID,IDN
 Huich'on,40.1711,126.2758,"Korea, North",KP,PRK
 Mahabad,36.765,45.721,Iran,IR,IRN
 Itapecerica da Serra,-23.7172,-46.8494,Brazil,BR,BRA
-Sao Caetano do Sul,-23.6228,-46.5508,Brazil,BR,BRA
+São Caetano do Sul,-23.6228,-46.5508,Brazil,BR,BRA
 Basuo,19.102,108.6391,China,CN,CHN
 Zlatoust,55.1667,59.6667,Russia,RU,RUS
 Rustenburg,-25.6667,27.2336,South Africa,ZA,ZAF
@@ -4358,7 +4359,7 @@ Tandil,-37.3167,-59.1333,Argentina,AR,ARG
 Manpo,41.157,126.29,"Korea, North",KP,PRK
 Beppu,33.2847,131.4911,Japan,JP,JPN
 Buzau,45.1517,26.8167,Romania,RO,ROU
-Tatui,-23.3556,-47.8569,Brazil,BR,BRA
+Tatuí,-23.3556,-47.8569,Brazil,BR,BRA
 Naga,10.2167,123.75,Philippines,PH,PHL
 Dimitrovgrad,54.2333,49.5833,Russia,RU,RUS
 Port-Gentil,-0.7167,8.7833,Gabon,GA,GAB
@@ -5038,7 +5039,7 @@ Suceava,47.6514,26.2556,Romania,RO,ROU
 Al Fujayrah,25.1308,56.3347,United Arab Emirates,AE,ARE
 Tartu,58.38,26.7225,Estonia,EE,EST
 Ciudad Lazaro Cardenas,17.9561,-102.1922,Mexico,MX,MEX
-Hradec Kralove,50.2092,15.8319,Czechia,CZ,CZE
+Hradec Králové,50.2092,15.8319,Czechia,CZ,CZE
 Sirnak,37.5164,42.4611,Turkey,TR,TUR
 South Gate,33.9448,-118.1926,United States,US,USA
 Tonacatepeque,13.7817,-89.12,El Salvador,SV,SLV
@@ -5048,7 +5049,7 @@ Nuneaton,52.523,-1.468,United Kingdom,GB,GBR
 Itanhaem,-24.1831,-46.7889,Brazil,BR,BRA
 Brixton,51.463,-0.106,United Kingdom,GB,GBR
 Kirkland,47.6974,-122.2054,United States,US,USA
-Usti nad Labem,50.6592,14.0417,Czechia,CZ,CZE
+Ústí nad Labem,50.6592,14.0417,Czechia,CZ,CZE
 Levallois-Perret,48.895,2.2872,France,FR,FRA
 Brusque,-27.13,-48.93,Brazil,BR,BRA
 Santiago de Compostela,42.8778,-8.5444,Spain,ES,ESP
@@ -6106,7 +6107,7 @@ Bang Kruai,13.8042,100.4755,Thailand,TH,THA
 Tubod,8.05,123.8,Philippines,PH,PHL
 Murzuq,25.9136,13.9336,Libya,LY,LBY
 Ripollet,41.4969,2.1574,Spain,ES,ESP
-San Adrian de Besos,41.4305,2.2183,Spain,ES,ESP
+Sant Adrià de Besòs,41.4305,2.2183,Spain,ES,ESP
 Caluire-et-Cuire,45.7953,4.8472,France,FR,FRA
 Rosso,16.5128,-15.805,Mauritania,MR,MRT
 Villa de Zaachila,16.9508,-96.7492,Mexico,MX,MEX
@@ -6159,6 +6160,7 @@ Alexandria,43.9686,25.3333,Romania,RO,ROU
 Madinat `Isa,26.1736,50.5478,Bahrain,BH,BHR
 Igualada,41.5814,1.6208,Spain,ES,ESP
 Thun,46.759,7.63,Switzerland,CH,CHE
+Saas-Fee,46.1073,7.9247,Switzerland,CH,CHE
 Vanves,48.8208,2.2897,France,FR,FRA
 Kingston upon Thames,51.4103,-0.2995,United Kingdom,GB,GBR
 Buta,2.82,24.74,Congo (Kinshasa),CD,COD
@@ -6581,6 +6583,7 @@ Prestwich,53.5333,-2.2833,United Kingdom,GB,GBR
 Kamenice,42.5839,21.575,Kosovo,XK,XKS
 Ermont,48.9922,2.2603,France,FR,FRA
 Viborg,56.4333,9.4,Denmark,DK,DNK
+Kolding,55.4895,9.4791,Denmark,DK,DNK
 San Juan Evangelista,17.8833,-95.1333,Mexico,MX,MEX
 Gostivar,41.8,20.9167,Macedonia,MK,MKD
 Chirivella,39.4656,-0.4267,Spain,ES,ESP
@@ -7277,7 +7280,7 @@ Palm Tree,41.3411,-74.1667,United States,US,USA
 Reyes Acozac,19.7667,-98.9833,Mexico,MX,MEX
 Baalbek,34.0061,36.2086,Lebanon,LB,LBN
 Palmers Green,51.6178,-0.1092,United Kingdom,GB,GBR
-Degollado,20.4667,-102.15,Mexico,MX,MEX
+Tenancingo de Degollado,20.4667,-102.15,Mexico,MX,MEX
 Hornsey,51.587,-0.118,United Kingdom,GB,GBR
 Herndon,38.9699,-77.3867,United States,US,USA
 Juvisy-sur-Orge,48.6883,2.3775,France,FR,FRA
@@ -11014,6 +11017,7 @@ Viersen,51.2556,6.3917,Germany,DE,DEU
 Bebedouro,-20.9494,-48.4792,Brazil,BR,BRA
 Guildford,51.2365,-0.5703,United Kingdom,GB,GBR
 Sint-Niklaas,51.1644,4.1392,Belgium,BE,BEL
+Leefdaal,50.8473,4.5913,Belgium,BE,BEL
 Karur,10.9504,78.0833,India,IN,IND
 Armant,25.6167,32.5333,Egypt,EG,EGY
 Alegrete,-29.7839,-55.7911,Brazil,BR,BRA
@@ -13049,6 +13053,7 @@ Campi Bisenzio,43.8256,11.1333,Italy,IT,ITA
 Santa Catarina Ixtahuacan,14.8,-91.3667,Guatemala,GT,GTM
 Monroe,41.9154,-83.385,United States,US,USA
 Rio Grande da Serra,-23.7439,-46.3978,Brazil,BR,BRA
+Fazenda Rio Grande,-25.6458,-49.3127,Brazil,BR,BRA
 Beypazari,40.1703,31.9211,Turkey,TR,TUR
 Zhujiacun,26.3164,104.3893,China,CN,CHN
 Lincoln,38.8759,-121.2916,United States,US,USA
@@ -13454,6 +13459,7 @@ Senigallia,43.7131,13.2183,Italy,IT,ITA
 Yatagan,37.3425,28.1393,Turkey,TR,TUR
 Kaufbeuren,47.88,10.6225,Germany,DE,DEU
 Medemblik,52.7674,5.1037,Netherlands,NL,NLD
+Doetinchem,51.9585,6.2815,Netherlands,NL,NLD
 Pederneiras,-22.3517,-48.775,Brazil,BR,BRA
 Mount Pleasant,41.112,-73.8122,United States,US,USA
 Rasskazovo,52.6667,41.8833,Russia,RU,RUS
@@ -13699,6 +13705,7 @@ Bihac,44.8167,15.8667,Bosnia And Herzegovina,BA,BIH
 Rosario,-2.9339,-44.235,Brazil,BR,BRA
 Channelview,29.7914,-95.1145,United States,US,USA
 Huizen,52.2994,5.2531,Netherlands,NL,NLD
+Voorthuizen,52.1872,5.6072,Netherlands,NL,NLD
 Entre Rios,-11.9419,-38.0839,Brazil,BR,BRA
 Yendi,9.4337,-0.0167,Ghana,GH,GHA
 Poptun,16.3222,-89.4222,Guatemala,GT,GTM
@@ -13817,6 +13824,7 @@ Urbana,40.1106,-88.1972,United States,US,USA
 Aurich,53.4714,7.4836,Germany,DE,DEU
 Qapshaghay,43.8844,77.0687,Kazakhstan,KZ,KAZ
 Nordhausen,51.505,10.7911,Germany,DE,DEU
+Ratshausen,48.1936,8.7947,Germany,DE,DEU
 Sbiba,35.5433,9.0736,Tunisia,TN,TUN
 Beverly,42.5681,-70.8627,United States,US,USA
 Safonovo,55.1,33.25,Russia,RU,RUS
@@ -14632,6 +14640,7 @@ Patnongon,10.9167,121.9833,Philippines,PH,PHL
 Baco,13.3584,121.0977,Philippines,PH,PHL
 Lierre,51.1311,4.5697,Belgium,BE,BEL
 Nossa Senhora da Gloria,-10.2178,-37.42,Brazil,BR,BRA
+Joinville,-26.3045,-48.8487,Brazil,BR,BRA
 Oleiros,43.3333,-8.3166,Spain,ES,ESP
 Aritao,16.2973,121.0338,Philippines,PH,PHL
 Navarre,30.4174,-86.8907,United States,US,USA
@@ -16925,6 +16934,7 @@ Boca da Mata,-9.6408,-36.22,Brazil,BR,BRA
 Morgan City,29.7041,-91.192,United States,US,USA
 Curtea de Arges,45.1167,24.6667,Romania,RO,ROU
 Sao Jose do Norte,-32.015,-52.0419,Brazil,BR,BRA
+Zortea,-27.4869,-51.5519,Brazil,BR,BRA
 Ramsey,45.2617,-93.4494,United States,US,USA
 Zongdi,25.5909,106.3163,China,CN,CHN
 Ruston,32.5329,-92.6363,United States,US,USA
@@ -17586,7 +17596,7 @@ Beersel,50.7631,4.3086,Belgium,BE,BEL
 South Windsor,41.8353,-72.5733,United States,US,USA
 Mercer Island,47.5661,-122.232,United States,US,USA
 Mola di Bari,41.0667,17.0833,Italy,IT,ITA
-Lubbecke,52.3081,8.6231,Germany,DE,DEU
+Luebbecke,52.3081,8.6231,Germany,DE,DEU
 Heber,40.5068,-111.3984,United States,US,USA
 White Bear Lake,45.0657,-93.015,United States,US,USA
 San Lucas Toliman,14.6333,-91.1333,Guatemala,GT,GTM
@@ -24712,6 +24722,7 @@ Boston,7.8667,126.3667,Philippines,PH,PHL
 Cha da Alegria,-8.0008,-35.2133,Brazil,BR,BRA
 Mqam at Tolba,33.9375,-6.2544,Morocco,MA,MAR
 Feldbach,46.955,15.8883,Austria,AT,AUT
+Dimbach,49.1672,7.898,Austria,AT,AUT
 Genas,45.7314,5.0022,France,FR,FRA
 Lourdes,43.095,-0.0453,France,FR,FRA
 Mario Campos,-20.0558,-44.1878,Brazil,BR,BRA
@@ -25884,6 +25895,7 @@ Teano,41.25,14.0667,Italy,IT,ITA
 Kalymnos,36.9512,26.9832,Greece,GR,GRC
 Becancour,46.3333,-72.4333,Canada,CA,CAN
 Murnau am Staffelsee,47.6833,11.2,Germany,DE,DEU
+Sternenfels,49.05,8.8511,Germany,DE,DEU
 Moldova Noua,44.7347,21.6664,Romania,RO,ROU
 Maqu,35.9451,106.9953,China,CN,CHN
 Terranuova Bracciolini,43.5531,11.5894,Italy,IT,ITA
@@ -26999,6 +27011,7 @@ Coronel Dorrego,-38.7187,-61.2873,Argentina,AR,ARG
 Scalea,39.8167,15.8,Italy,IT,ITA
 Ostrhauderfehn,53.1167,7.6167,Germany,DE,DEU
 Zierikzee,51.6497,3.9164,Netherlands,NL,NLD
+Tilburg,51.5856,5.0661,Netherlands,NL,NLD
 Amneville,49.2608,6.1419,France,FR,FRA
 Yakymivka,46.6967,35.1664,Ukraine,UA,UKR
 Divinolandia,-21.6614,-46.7392,Brazil,BR,BRA
@@ -29126,6 +29139,7 @@ River Vale,41.0136,-74.008,United States,US,USA
 Fort Oglethorpe,34.9319,-85.246,United States,US,USA
 Pinos Puente,37.25,-3.75,Spain,ES,ESP
 Visbek,52.8333,8.3167,Germany,DE,DEU
+Jersbek,53.7394,10.2256,Germany,DE,DEU
 Ratne,51.65,24.5333,Ukraine,UA,UKR
 Saint-Pierre-du-Mont,43.8825,-0.5194,France,FR,FRA
 Lapinlahti,63.3667,27.3833,Finland,FI,FIN
@@ -31732,7 +31746,7 @@ La Bassee,50.5336,2.8072,France,FR,FRA
 Sirnach,47.4664,8.9997,Switzerland,CH,CHE
 Serramazzoni,44.4167,10.8,Italy,IT,ITA
 Ponte nell'Alpi,46.183,12.2791,Italy,IT,ITA
-Hochst,47.4592,9.64,Austria,AT,AUT
+Hoechst,47.4592,9.64,Austria,AT,AUT
 Salice Salentino,40.3833,17.9667,Italy,IT,ITA
 El Porvenir,14.0207,-89.6471,El Salvador,SV,SLV
 Gaylord,45.0213,-84.6803,United States,US,USA
@@ -31754,6 +31768,7 @@ San Miguel del Puerto,15.9167,-96.1667,Mexico,MX,MEX
 Neusiedl am See,47.9486,16.8431,Austria,AT,AUT
 Fairless Hills,40.1784,-74.8524,United States,US,USA
 Milevsko,49.451,14.36,Czechia,CZ,CZE
+Sany,50.1247,15.2476,Czechia,CZ,CZE
 Althengstett,48.7233,8.7939,Germany,DE,DEU
 Sao Pedro dos Ferros,-20.17,-42.5239,Brazil,BR,BRA
 Ahrensbok,54.0167,10.5833,Germany,DE,DEU
@@ -31930,6 +31945,7 @@ Kapuskasing,49.4167,-82.4333,Canada,CA,CAN
 Les Andelys,49.2456,1.4117,France,FR,FRA
 Floris,38.9347,-77.4083,United States,US,USA
 Aparecida,-6.7839,-38.0869,Brazil,BR,BRA
+Aparecida de Goiania,-16.8227,-49.2453,Brazil,BR,BRA
 Coleshill,52.499,-1.708,United Kingdom,GB,GBR
 Bargara,-24.8205,152.4625,Australia,AU,AUS
 Tolstoy-Yurt,43.4456,45.7789,Russia,RU,RUS
@@ -38833,6 +38849,7 @@ Phanom Thuan,14.1315,99.7029,Thailand,TH,THA
 Lanzo Torinese,45.2667,7.4833,Italy,IT,ITA
 Rangendingen,48.3811,8.8889,Germany,DE,DEU
 Feldkirchen an der Donau,48.3456,14.0503,Austria,AT,AUT
+Hartkirchen,48.3764,13.9854,Austria,AT,AUT
 Mirecourt,48.2986,6.1303,France,FR,FRA
 Marbletown,41.8699,-74.1628,United States,US,USA
 Makhkety,42.9663,45.9063,Russia,RU,RUS
@@ -41000,6 +41017,12 @@ Numto,63.6667,71.3333,Russia,RU,RUS
 Nord,81.7166,-17.8,Greenland,GL,GRL
 Timmiarmiut,62.5333,-42.2167,Greenland,GL,GRL
 Nordvik,74.0165,111.51,Russia,RU,RUS
+Jaerbo,60.7199,16.5972,Sweden,SE,SWE
+Ernakulam,9.9841,76.2741,India,IN,IND
+Momlingen,49.8583,9.0842,Germany,DE,DEU
+Finowfurt,52.8462,13.6827,Germany,DE,DEU
+Graciano Sanchez,17.367,-94.8312,Mexico,MX,MEX
+Ega,56.2153,10.2667,Denmark,DK,DNK
 Albania,41,20,Albania,,
 Algeria,28,3,Algeria,,
 American Samoa,-14.3333,-170,American Samoa,,
